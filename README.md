@@ -4,4 +4,5 @@ Tarkov Image Opener v0.1_Made by Poce_Mapas disponibles: Customs, Factory, Inter
 How it works:
 Just open 43.exe.
 Then press "Shift + C" > It will open Customs map
+
 "Shift + {First map letter}"
